@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Prince Gyamfi!
 
-## 🚀 Software Developer | Full Stack Magician | Bug Hunter 🐞
+## 🚀 Software Engineer | Full Stack Developer | Bug Hunter 🐞
 
 Welcome to my coding realm! I'm Prince, a passionate software developer who thrives on turning ideas into digital realities. By day, I craft full-stack wonders, and by night, I don my bug-hunting cape to ensure smooth digital journeys.
 
