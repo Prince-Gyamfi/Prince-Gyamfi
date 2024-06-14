@@ -1,18 +1,16 @@
 # 👋 Hello World, I'm Prince Gyamfi!
 
-## 🚀 Software Engineer | Full Stack Developer | Bug Hunter 🐞
+## Software Engineer | Full Stack Developer | 
 
-Welcome to my coding realm! I'm Prince, a passionate software developer who thrives on turning ideas into digital realities. By day, I craft full-stack wonders, and by night, I don my bug-hunting cape to ensure smooth digital journeys.
+Welcome to my coding realm! I'm a passionate Full Stack Developer with a knack for building scalable and efficient web applications. With experience in both frontend and backend technologies, I specialize in crafting seamless user experiences and robust server-side operations. I am proficient in technologies such as React.js, Node.js, Express.js, and MongoDB, among others.
 
-### 💻 Tech Stack
 
-- 🌐 Full Stack Developer with a knack for both frontend and backend technologies
-- 🚀 JavaScript | React | Node.js | Express | MongoDB
-- 🔍 Bug Hunter Extraordinaire, meticulously uncovering and squashing those elusive bugs
+🛠️ Tech Stack:
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools & Platforms:** GitHub, Heroku, Netlify
 
-### 🏹 Bug Hunter's Arsenal
-
-Equipped with a keen eye for detail and a relentless pursuit of perfection, I hunt down bugs like a coding ninja. Every bug squashed is a victory for seamless user experiences!
 
 ### 🌟 Let's Connect
 
@@ -27,6 +25,9 @@ I contribute to the open-source community, fostering innovation and collaboratio
 ### 📈 GitHub Stats
 
 ![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=princegyamfi&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princegyamfi&layout=compact&theme=radical)
+
 
 ### 📫 Let's Build Together
 
