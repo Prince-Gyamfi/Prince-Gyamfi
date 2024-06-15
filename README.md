@@ -26,7 +26,7 @@ I contribute to the open-source community, fostering innovation and collaboratio
 
 ![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=princegyamfi&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princegyamfi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jignesh6775&layout=compact&theme=radical)
 
 
 ### 📫 Let's Build Together
