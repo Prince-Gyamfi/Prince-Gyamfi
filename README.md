@@ -2,15 +2,18 @@
 
 ## Software Engineer | Full Stack Developer | 
 
-Welcome to my coding realm! I'm a passionate Full Stack Developer with a knack for building scalable and efficient web applications. With experience in both frontend and backend technologies, I specialize in crafting seamless user experiences and robust server-side operations. I am proficient in technologies such as React.js, Node.js, Express.js, and MongoDB, among others.
+Hi there! I'm a passionate Full Stack Developer with a knack for building scalable and efficient web applications. With experience in both frontend and backend technologies, I specialize in crafting seamless user experiences and robust server-side operations. I am proficient in technologies such as React.js, Node.js, Express.js, and MongoDB, among others.
 
 
 🛠️ Tech Stack:
-- **Frontend:** React.js, Tailwind CSS
+- **Frontend:** Javascript , React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Tools & Platforms:** GitHub, Heroku, Netlify
 
+
+### 🌟 Skills
+JavaScript, Php, Python
 
 ### 🌟 Let's Connect
 
